@@ -1,4 +1,4 @@
-# TFTTetris
+# tetris
 A 1.8" TFT powered by a Raspberry Pi Pico that can play the hit game Tetris. Control the position of the block by rotating the device, and rotate the block by pressing a button.
 
 ## Features
